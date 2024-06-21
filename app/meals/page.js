@@ -8,4 +8,4 @@ const MealsPage = () => {
   );
 };
 
-export default MealsPage;
+export default MealsPage
