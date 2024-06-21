@@ -3,7 +3,7 @@ import React from "react";
 const CommunityPage = () => {
   return (
     <main>
-      <h1>CommunityPage</h1>
+      <h1>Community Page</h1>
     </main>
   );
 };
